@@ -14,4 +14,6 @@ License
 
 This project is license under MIT
 
+https://vargacar.github.io/weather-chann/
 
+https://github.com/vargacar/weather-chann
